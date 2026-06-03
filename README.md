@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/96f30713-c3cb-4439-ac27-883a1b692e4e
+
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
 # Date:22-05-2026
@@ -467,6 +471,12 @@ The experiment successfully demonstrated how different prompting techniques infl
 Among all techniques, cinematic and story-driven prompts generated the most professional and visually appealing videos. The experiment confirmed that prompt engineering is an essential skill for maximizing the capabilities of AI-based video generation systems.
 
 ---
+
+
+https://github.com/user-attachments/assets/55191436-510d-4549-8194-3800afaf11c1
+
+
+
 
 # Result
 
