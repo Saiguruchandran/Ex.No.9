@@ -472,7 +472,6 @@ Among all techniques, cinematic and story-driven prompts generated the most prof
 ---
 
 
-https://github.com/user-attachments/assets/55191436-510d-4549-8194-3800afaf11c1
 
 
 
