@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/96f30713-c3cb-4439-ac27-883a1b692e4e
 
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
