@@ -350,6 +350,61 @@ A magical floating island kingdom above the clouds with glowing waterfalls, fant
 - Rich visual details
 
 ---
+# Activity 4: AI-Assisted Architecture Visualization
+
+## Prompt
+
+```text
+A close-up cinematic shot of a hand holding a pencil and touching a blank sheet of paper. As the pencil makes contact, glowing blue holographic energy emerges, creating a futuristic architectural blueprint. The blueprint rapidly transforms into a detailed 3D skyscraper model with neon light effects. The camera smoothly zooms out to reveal a completed ultra-modern glass tower standing on a miniature city platform, with a business professional admiring the design. Photorealistic, cinematic lighting, depth of field, high detail, futuristic technology, 4K animation.
+```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/91cdbf21-945a-4410-8096-817b6e63aab7" />
+
+
+## Output Observation
+  link: https://drive.google.com/drive/folders/1Pp6iKaXkWULZFefaoa16wu0MVB1ES0zV
+- Hand holding a pencil above a blank sheet of paper
+- Pencil touches the surface, initiating the design process
+- Blue holographic energy emerges from the pencil tip
+- Futuristic architectural blueprint appears dynamically
+- Blueprint transforms into a detailed 3D skyscraper model
+- Neon lighting effects enhance the futuristic appearance
+- Camera zooms out to reveal a completed ultra-modern glass tower
+- Miniature city platform provides realistic urban context
+- Business professional observes the finished architectural design
+- Smooth cinematic transitions and photorealistic rendering
+
+## Theme
+
+**AI-Assisted Architecture, Smart Design Visualization, Digital Transformation, Future Construction Technology, Concept-to-Reality Innovation**
+
+# Activity 5: AI Travel Planner Advertisement
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b1077ad6-d3c6-4300-ae16-403ab87e76f4" />
+
+## Prompt
+
+```text
+A young traveler sitting at a study desk browsing a smartphone while planning a vacation. An AI-powered travel planner application appears as a floating holographic interface beside the user, displaying scenic destinations, personalized recommendations, and travel insights. The scene transitions into breathtaking mountain landscapes, colorful flower valleys, and serene lakes. Cinematic camera movement, photorealistic visuals, soft natural lighting, depth of field, smooth transitions, modern technology, 4K animation.
+```
+
+## Output Observation
+ LINK :https://drive.google.com/drive/folders/1Pp6iKaXkWULZFefaoa16wu0MVB1ES0zV
+
+- A young person is seated at a desk using a smartphone.
+- The scene conveys travel planning and decision-making.
+- An AI Travel Planner interface appears beside the user.
+- The application displays destination recommendations and travel information.
+- Smooth transition from indoor planning to outdoor travel visualization.
+- Scenic mountain landscapes emerge on screen.
+- Colorful flower-filled valleys enhance the visual appeal.
+- A peaceful lake surrounded by mountains is showcased.
+- Cinematic camera movement creates an immersive experience.
+- The video highlights AI-powered travel assistance and personalized trip planning.
+- Natural lighting and photorealistic visuals improve realism.
+- The final scene emphasizes smart travel powered by artificial intelligence.
+
+## Conclusion
+
+The generated video effectively utilizes AI animation techniques, including scene generation, cinematic transitions, realistic environments, and interactive holographic elements. The output closely matches the given prompt and successfully visualizes the concept of an AI-powered travel planner. The combination of visual storytelling and advanced AI-generated graphics creates an engaging and professional presentation, demonstrating the potential of AI in modern content creation and digital travel assistance.
 
 # Prompt Refinement Process
 
